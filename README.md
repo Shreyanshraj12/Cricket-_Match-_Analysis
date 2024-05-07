@@ -1,6 +1,5 @@
 # Cricket-_Match-_Analysis
 🏏 Power BI Analysis: T20 2020 Men's World Cup 2021 🏆
- Certainly! Here's a description for your Power BI project on the T20 2020 Men's World Cup 2021:  Title: Power BI Analysis of T20 2020 Men's World Cup 2021
 
 Overview
 Explore the highs, lows, and everything in between of one of cricket's most exhilarating tournaments right here in this Power BI project. Get ready to dive deep into the world of cricket and unlock fascinating insights! 📊
